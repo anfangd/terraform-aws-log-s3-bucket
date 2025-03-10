@@ -1,0 +1,1 @@
+# terraform-aws-log-s3-bucket
